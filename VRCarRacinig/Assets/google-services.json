@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297219810315",
+    "project_id": "vrkarting-68fc2",
+    "storage_bucket": "vrkarting-68fc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297219810315:android:c8db6299e664afccbf130e",
+        "android_client_info": {
+          "package_name": "com.group4.vrkarting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297219810315-v2snhchq23jpcds08l1hstkc4j5apko3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXoiodaswhH4GSRYKWbj47wsXiEO_eZXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297219810315-v2snhchq23jpcds08l1hstkc4j5apko3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
